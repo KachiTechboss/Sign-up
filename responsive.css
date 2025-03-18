@@ -5,7 +5,7 @@
  }
  main{
     display: block;
-    margin: 6rem 2rem;
+    margin: 4rem 2rem;
     align-items: center;  
 }
 .first-container{
@@ -13,8 +13,17 @@
     color: white;
     text-align: center;
 }
+.first-container h1{
+    font-size: 25px;
+    margin-top: 0rem;
+}
+.first-container p{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 2rem;
+}
 .btn-1{
-    padding: 25px 55px;
+    padding: 25px 30px;
     margin-top: 2rem;
     text-align: center;
 }
@@ -24,6 +33,6 @@ form{
     padding: 20px;
 }
 form p{
-    font-size: 15px;
+    font-size: 14px;
 }
 }
