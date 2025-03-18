@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+ body{
+    background: url(images/bg-intro-mobile.png) ,  hsl(0, 100%, 74%) ;
+    text-align: center;
+ }
+ main{
+    display: block;
+    margin: 6rem 2rem;
+    align-items: center;  
+}
+.first-container{
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.btn-1{
+    padding: 25px 55px;
+    margin-top: 2rem;
+    text-align: center;
+}
+form{
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+form p{
+    font-size: 15px;
+}
+}
